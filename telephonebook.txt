@@ -1,0 +1,11 @@
+|Surname|;|Telephone|;|Position|
+Babushkin;89505419139;general director
+Muraviev;89634455354;commercial director
+Belov;89335433434;head of sales
+Bezuglov;89505419191;sales manager
+Vetrov;89055556677;sales manager
+Mashevskui;89049837334;storekeeper
+Topychkanov;89997774545;investor
+Lavruhin;89639990000;stories maker
+Kyprin;89009099090;smm
+Saharenko;89443332211;cleener
