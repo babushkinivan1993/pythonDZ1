@@ -43,8 +43,6 @@ while (press >0 and press<8 ):
         for i in list: 
             if (information == i[0]): 
                 print (*i)
-            #print (i[2])
-            #print (information)
         press=next()
     if (press == 6):
         print_the_book(list)
